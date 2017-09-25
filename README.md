@@ -1,5 +1,9 @@
+# CS207 Course Repository
 
-# C207 Private Repository for Riddhi Shah
+This repo contains course information for CS207 in 
+Fall 2017.
 
-## This is my course repository for CS207.  I'm pretending to be a student.
+**homeworks** --- Directory for homework assignments
+
+**lectures** --- Directory for lectures
 
